@@ -4,6 +4,7 @@ I know the following code
   - JavaScript
   - Python
   - SQL
+  - Python and JS frameworks
 
 I'm currently learn the following
   - Angular JS
